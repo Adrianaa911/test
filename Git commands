@@ -8,4 +8,5 @@ git add <file name>   -> add file
 git status
 git commit -m first commit of hungry code     -> commit in the file created -m write a message
 git log    ->shows all the commits history
+git push   ->will push commited changes to the github
 
