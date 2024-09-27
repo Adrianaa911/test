@@ -4,5 +4,8 @@ ls
 cd [repo name]
 ls            -> files
 git status   ->show changes 
+git add <file name>   -> add file
+git status
+git commit -m first commit of hungry code     -> commit in the file created -m write a message
 
 
