@@ -1,2 +1,8 @@
 git bash
+git clone https://github.com/Adrianaa911/test.git
+ls
+cd [repo name]
+ls            -> files
+git status   ->show changes 
+
 
