@@ -10,3 +10,6 @@ git commit -m first commit of hungry code     -> commit in the file created -m w
 git log    ->shows all the commits history
 git push   ->will push commited changes to the github
 
+
+https://www.geeksforgeeks.org/how-to-check-branch-in-git/
+
